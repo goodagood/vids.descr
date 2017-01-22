@@ -1,3 +1,6 @@
+# vim tmp files
+*~
+
 # Object files
 *.o
 *.ko
