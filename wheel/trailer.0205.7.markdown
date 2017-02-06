@@ -48,9 +48,10 @@ There are a few referrences online,
       > high cost: life company, drop tests, water tests
 
     + solar power 
-    + motor
+    + motor driver
 
     + smart, AI, softwares
+      > smart containers
       > become a dog, follow his master
 
 
