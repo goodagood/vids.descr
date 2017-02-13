@@ -14,6 +14,7 @@ backpack, bag, luggage, trailer single/double wheels
 # who need easy to carry container
 
  - survivalist, preper, people in outdoor life, 
+   hunter 
    those in hiking, 
    who spend days in wildness,
 
